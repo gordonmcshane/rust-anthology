@@ -16,7 +16,7 @@ focus.
 ## Anthology 1 candidates
 
 - Introduction
-  - [Understanding Over Guesswork](https://hoverbear.org/2015/09/12/understand-over-guesswork/)
+  - ~~Understanding Over Guesswork](https://hoverbear.org/2015/09/12/understand-over-guesswork/)~~
   - [An Alternative Introduction to Rust](http://words.steveklabnik.com/a-new-introduction-to-rust)
   - [Learning Rust](https://medium.com/learning-rust)
     - [Rust Basics](https://medium.com/learning-rust/rust-basics-e73304ab35c7)
@@ -31,7 +31,7 @@ focus.
   - [My Experience Writing Enjarify in Rust](https://medium.com/@robertgrosse/my-experience-rewriting-enjarify-in-rust-723089b406ad)
   - [Rust: A Scala Engineer's Perspective](https://beachape.com/blog/2017/05/24/rust-from-scala/)
 - Ownership
-  - [Where Rust Really Shines](https://manishearth.github.io/blog/2015/05/03/where-rust-really-shines/)
+  - ~~[Where Rust Really Shines](https://manishearth.github.io/blog/2015/05/03/where-rust-really-shines/)~~
   - [Rust Means Never Having to Close a Socket](http://blog.skylight.io/rust-means-never-having-to-close-a-socket/)
   - [The Problem with Single-threaded Shared Mutability](https://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/)
   - [Rust Ownership the Hard Way](https://chrismorgan.info/blog/rust-ownership-the-hard-way.html)
@@ -48,7 +48,7 @@ focus.
   - [Wrapper Types in Rust: Choosing Your Guarantees](https://manishearth.github.io/blog/2015/05/27/wrapper-types-in-rust-choosing-your-guarantees/)
 - Traits
   - [Abstraction Without Overhead](https://blog.rust-lang.org/2015/05/11/traits.html)
-  - [Going Down the Rabbit Hole with Rust Traits](http://www.jonathanturner.org/2016/02/down-the-rabbit-hole-with-traits.html)
+  - ~~[Going Down the Rabbit Hole with Rust Traits](http://www.jonathanturner.org/2016/02/down-the-rabbit-hole-with-traits.html)~~
   - Huon's Trait Object Quadrilogy (All About Trait Objects)
     - [Peeking Inside Trait Objects](https://huonw.github.io/blog/2015/01/peeking-inside-trait-objects/)
     - [The `Sized` Trait](https://huonw.github.io/blog/2015/01/the-sized-trait/)
@@ -61,7 +61,7 @@ focus.
   - [What are Sum, Product, and Pi types?](https://manishearth.github.io/blog/2017/03/04/what-are-sum-product-and-pi-types/)
   - [Reading Rust Function Signatures](http://hoverbear.org/2015/07/10/reading-rust-function-signatures/)
   - [Finding Closure in Rust](https://huonw.github.io/blog/2015/05/finding-closure-in-rust/)
-  - [Rust's Built-in Traits, the When, How & Why](https://llogiq.github.io/2015/07/30/traits.html)
+  - ~~[Rust's Built-in Traits, the When, How & Why](https://llogiq.github.io/2015/07/30/traits.html)~~
   - [Myths and Legends About Integer Overflow in Rust](https://huonw.github.io/blog/2016/04/myths-and-legends-about-integer-overflow-in-rust/)
 - Iterators
   - [Effectively Using Iterators in Rust](http://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html)
@@ -87,9 +87,9 @@ focus.
   - [Rust Error Handling](http://blog.burntsushi.net/rust-error-handling/)
   - [Why your first FizzBuzz implementation may not work](https://chrismorgan.info/blog/rust-fizzbuzz.html)
   - Herman Radtke's `String` Trilogy
-    - [`String` vs. `&str` in Rust Functions](http://hermanradtke.com/2015/05/03/string-vs-str-in-rust-functions.html)
-    - [Creating a Rust Function That Accepts `String` or `&str`](http://hermanradtke.com/2015/05/06/creating-a-rust-function-that-accepts-string-or-str.html)
-    - [Creating a Rust Function That Returns `String` or `&str`](http://hermanradtke.com/2015/05/29/creating-a-rust-function-that-returns-string-or-str.html)
+    - ~~[`String` vs. `&str` in Rust Functions](http://hermanradtke.com/2015/05/03/string-vs-str-in-rust-functions.html)~~
+    - ~~[Creating a Rust Function That Accepts `String` or `&str`](http://hermanradtke.com/2015/05/06/creating-a-rust-function-that-accepts-string-or-str.html)~~
+    - ~~[Creating a Rust Function That Returns `String` or `&str`](http://hermanradtke.com/2015/05/29/creating-a-rust-function-that-returns-string-or-str.html)~~
   - Gankro's Collections Trilogy
     - [Rust, Lifetimes, and Collections](http://cglab.ca/~abeinges/blah/rust-lifetimes-and-collections/)
     - [Rust, Generics, and Collections](http://cglab.ca/~abeinges/blah/rust-generics-and-collections/)
