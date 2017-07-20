@@ -47,7 +47,7 @@ focus.
   - [Graphical Depiction of Ownership and Borrowing in Rust](https://rufflewind.com/2017-02-15/rust-move-copy-borrow)
   - [Wrapper Types in Rust: Choosing Your Guarantees](https://manishearth.github.io/blog/2015/05/27/wrapper-types-in-rust-choosing-your-guarantees/)
 - Traits
-  - [Abstraction Without Overhead](https://blog.rust-lang.org/2015/05/11/traits.html)
+  - ~~[Abstraction Without Overhead](https://blog.rust-lang.org/2015/05/11/traits.html)~~
   - ~~[Going Down the Rabbit Hole with Rust Traits](http://www.jonathanturner.org/2016/02/down-the-rabbit-hole-with-traits.html)~~
   - Huon's Trait Object Quadrilogy (All About Trait Objects)
     - [Peeking Inside Trait Objects](https://huonw.github.io/blog/2015/01/peeking-inside-trait-objects/)
