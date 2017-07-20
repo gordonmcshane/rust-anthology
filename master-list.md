@@ -16,7 +16,7 @@ focus.
 ## Anthology 1 candidates
 
 - Introduction
-  - ~~Understanding Over Guesswork](https://hoverbear.org/2015/09/12/understand-over-guesswork/)~~
+  - ~~[Understanding Over Guesswork](https://hoverbear.org/2015/09/12/understand-over-guesswork/)~~
   - [An Alternative Introduction to Rust](http://words.steveklabnik.com/a-new-introduction-to-rust)
   - [Learning Rust](https://medium.com/learning-rust)
     - [Rust Basics](https://medium.com/learning-rust/rust-basics-e73304ab35c7)
