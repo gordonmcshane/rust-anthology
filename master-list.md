@@ -58,9 +58,9 @@ focus.
 - The Rust Language
   - [The Many Kinds of Code Reuse in Rust](http://cglab.ca/~abeinges/blah/rust-reuse-and-recycle/)
   - [Mixing Matching, Mutations and Moves](https://blog.rust-lang.org/2015/04/17/Enums-match-mutation-and-moves.html)
-  - [What are Sum, Product, and Pi types?](https://manishearth.github.io/blog/2017/03/04/what-are-sum-product-and-pi-types/)
+  - ~~[What are Sum, Product, and Pi types?](https://manishearth.github.io/blog/2017/03/04/what-are-sum-product-and-pi-types/)~~
   - [Reading Rust Function Signatures](http://hoverbear.org/2015/07/10/reading-rust-function-signatures/)
-  - [Finding Closure in Rust](https://huonw.github.io/blog/2015/05/finding-closure-in-rust/)
+  - ~~[Finding Closure in Rust](https://huonw.github.io/blog/2015/05/finding-closure-in-rust/)~~
   - ~~[Rust's Built-in Traits, the When, How & Why](https://llogiq.github.io/2015/07/30/traits.html)~~
   - [Myths and Legends About Integer Overflow in Rust](https://huonw.github.io/blog/2016/04/myths-and-legends-about-integer-overflow-in-rust/)
 - Iterators
@@ -98,13 +98,13 @@ focus.
   - [Working With C Unions in Rust FFI](http://hermanradtke.com/2016/03/17/unions-rust-ffi.html)
   - [Quick tip: the `#[cfg_attr]` attribute](https://chrismorgan.info/blog/rust-cfg_attr.html)
   - Using the `Option` Type Effectively
-    - [Part 1](http://blog.8thlight.com/dave-torre/2015/03/11/the-option-type.html)
-    - [Part 2](http://blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html)
+    - ~~[Part 1](http://blog.8thlight.com/dave-torre/2015/03/11/the-option-type.html)~~
+    - ~~[Part 2](http://blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html)~~
   - [ripgrep code review](http://blog.mbrt.it/2016-12-01-ripgrep-code-review/)
   - [gnome-class: Integrating Rust and the GNOME object system](http://smallcultfollowing.com/babysteps/blog/2017/05/02/gnome-class-integrating-rust-and-the-gnome-object-system/)
   - [Exploring Rust's standard library: system calls and errors](https://people.gnome.org/~federico/blog/rust-libstd-syscalls-and-errors.html)
   - [I used to use pointers. Now what?](https://github.com/diwic/reffers-rs/blob/master/docs/Pointers.md)
-  - [Starting a New Rust Project Right, with error-chain](http://brson.github.io/2016/11/30/starting-with-error-chain)
+  - ~~[Starting a New Rust Project Right, with error-chain](http://brson.github.io/2016/11/30/starting-with-error-chain)~~
   - [Bugs You'll Probably Only Have in Rust](https://gankro.github.io/blah/only-in-rust/)
   - [Using and_then and map combinators on the Rust Result Type](http://hermanradtke.com/2016/09/12/rust-using-and_then-and-map-combinators-on-result-type.html)
   - [Mapping Over Arrays](https://llogiq.github.io/2016/04/28/arraymap.html)
