@@ -44,7 +44,7 @@ focus.
   - Holy `std::borrow::Cow`
     - [Holy `std::borrow::Cow`!](https://llogiq.github.io/2015/07/09/cow.html)
     - [Holy `std::borrow::Cow` Redux!](https://llogiq.github.io/2015/07/10/cow-redux.html)
-  - [Graphical Depiction of Ownership and Borrowing in Rust](https://rufflewind.com/2017-02-15/rust-move-copy-borrow)
+  - ~~[Graphical Depiction of Ownership and Borrowing in Rust](https://rufflewind.com/2017-02-15/rust-move-copy-borrow)~~~
   - [Wrapper Types in Rust: Choosing Your Guarantees](https://manishearth.github.io/blog/2015/05/27/wrapper-types-in-rust-choosing-your-guarantees/)
 - Traits
   - ~~[Abstraction Without Overhead](https://blog.rust-lang.org/2015/05/11/traits.html)~~
