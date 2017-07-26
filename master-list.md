@@ -40,7 +40,7 @@ focus.
     - [Interior mutability in Rust: what, why, how?](https://ricardomartins.cc/2016/06/08/interior-mutability)
     - [Interior mutability in Rust, part 2: thread safety](https://ricardomartins.cc/2016/06/25/interior-mutability-thread-safety)
     - [Interior mutability in Rust, part 3: behind the curtain](https://ricardomartins.cc/2016/07/11/interior-mutability-behind-the-curtain)
-  - [`&` vs. `ref` in Patterns](http://xion.io/post/code/rust-patterns-ref.html)
+  - ~~[`&` vs. `ref` in Patterns](http://xion.io/post/code/rust-patterns-ref.html)~~
   - Holy `std::borrow::Cow`
     - [Holy `std::borrow::Cow`!](https://llogiq.github.io/2015/07/09/cow.html)
     - [Holy `std::borrow::Cow` Redux!](https://llogiq.github.io/2015/07/10/cow-redux.html)
@@ -64,7 +64,7 @@ focus.
   - ~~[Rust's Built-in Traits, the When, How & Why](https://llogiq.github.io/2015/07/30/traits.html)~~
   - [Myths and Legends About Integer Overflow in Rust](https://huonw.github.io/blog/2016/04/myths-and-legends-about-integer-overflow-in-rust/)
 - Iterators
-  - [Effectively Using Iterators in Rust](http://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html)
+  - ~~[Effectively Using Iterators in Rust](http://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html)~~
   - [A Journey Into Iterators](https://hoverbear.org/2015/05/02/a-journey-into-iterators/)
   - [for loops in Rust](http://xion.io/post/code/rust-for-loop.html)
   - [Little tour of multiple iterators implementation in Rust](https://blog.guillaume-gomez.fr/articles/2017-03-09+Little+tour+of+multiple+iterators+implementation+in+Rust)
