@@ -50,7 +50,7 @@ focus.
   - ~~[Abstraction Without Overhead](https://blog.rust-lang.org/2015/05/11/traits.html)~~
   - ~~[Going Down the Rabbit Hole with Rust Traits](http://www.jonathanturner.org/2016/02/down-the-rabbit-hole-with-traits.html)~~
   - Huon's Trait Object Quadrilogy (All About Trait Objects)
-    - [Peeking Inside Trait Objects](https://huonw.github.io/blog/2015/01/peeking-inside-trait-objects/)
+    - ~~[Peeking Inside Trait Objects](https://huonw.github.io/blog/2015/01/peeking-inside-trait-objects/)~~
     - [The `Sized` Trait](https://huonw.github.io/blog/2015/01/the-sized-trait/)
     - [Object Safety](http://huonw.github.io/blog/2015/01/object-safety/)
     - [Where `Self` meets `Sized`: Revisiting Object Safety](https://huonw.github.io/blog/2015/05/where-self-meets-sized-revisiting-object-safety/)
