@@ -52,7 +52,7 @@ focus.
   - Huon's Trait Object Quadrilogy (All About Trait Objects)
     - ~~[Peeking Inside Trait Objects](https://huonw.github.io/blog/2015/01/peeking-inside-trait-objects/)~~
     - ~~[The `Sized` Trait](https://huonw.github.io/blog/2015/01/the-sized-trait/)~~
-    - [Object Safety](http://huonw.github.io/blog/2015/01/object-safety/)
+    - ~~[Object Safety](http://huonw.github.io/blog/2015/01/object-safety/)~~
     - [Where `Self` meets `Sized`: Revisiting Object Safety](https://huonw.github.io/blog/2015/05/where-self-meets-sized-revisiting-object-safety/)
   - [Rust Traits for Developer Friendly Libraries](https://benashford.github.io/blog/2015/05/24/rust-traits-for-developer-friendly-libraries/)
 - The Rust Language
@@ -65,7 +65,7 @@ focus.
   - [Myths and Legends About Integer Overflow in Rust](https://huonw.github.io/blog/2016/04/myths-and-legends-about-integer-overflow-in-rust/)
 - Iterators
   - ~~[Effectively Using Iterators in Rust](http://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html)~~
-  - [A Journey Into Iterators](https://hoverbear.org/2015/05/02/a-journey-into-iterators/)
+  - ~~[A Journey Into Iterators](https://hoverbear.org/2015/05/02/a-journey-into-iterators/)~~
   - [for loops in Rust](http://xion.io/post/code/rust-for-loop.html)
   - [Little tour of multiple iterators implementation in Rust](https://blog.guillaume-gomez.fr/articles/2017-03-09+Little+tour+of+multiple+iterators+implementation+in+Rust)
 - Concurrency and Parallelism
