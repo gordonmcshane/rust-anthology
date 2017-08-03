@@ -53,7 +53,7 @@ focus.
     - ~~[Peeking Inside Trait Objects](https://huonw.github.io/blog/2015/01/peeking-inside-trait-objects/)~~
     - ~~[The `Sized` Trait](https://huonw.github.io/blog/2015/01/the-sized-trait/)~~
     - ~~[Object Safety](http://huonw.github.io/blog/2015/01/object-safety/)~~
-    - [Where `Self` meets `Sized`: Revisiting Object Safety](https://huonw.github.io/blog/2015/05/where-self-meets-sized-revisiting-object-safety/)
+    - ~~[Where `Self` meets `Sized`: Revisiting Object Safety](https://huonw.github.io/blog/2015/05/where-self-meets-sized-revisiting-object-safety/)~~
   - [Rust Traits for Developer Friendly Libraries](https://benashford.github.io/blog/2015/05/24/rust-traits-for-developer-friendly-libraries/)
 - The Rust Language
   - [The Many Kinds of Code Reuse in Rust](http://cglab.ca/~abeinges/blah/rust-reuse-and-recycle/)
@@ -102,7 +102,7 @@ focus.
     - ~~[Part 2](http://blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html)~~
   - [ripgrep code review](http://blog.mbrt.it/2016-12-01-ripgrep-code-review/)
   - [gnome-class: Integrating Rust and the GNOME object system](http://smallcultfollowing.com/babysteps/blog/2017/05/02/gnome-class-integrating-rust-and-the-gnome-object-system/)
-  - [Exploring Rust's standard library: system calls and errors](https://people.gnome.org/~federico/blog/rust-libstd-syscalls-and-errors.html)
+  - ~~[Exploring Rust's standard library: system calls and errors](https://people.gnome.org/~federico/blog/rust-libstd-syscalls-and-errors.html)~~
   - [I used to use pointers. Now what?](https://github.com/diwic/reffers-rs/blob/master/docs/Pointers.md)
   - ~~[Starting a New Rust Project Right, with error-chain](http://brson.github.io/2016/11/30/starting-with-error-chain)~~
   - [Bugs You'll Probably Only Have in Rust](https://gankro.github.io/blah/only-in-rust/)
