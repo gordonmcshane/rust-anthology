@@ -113,7 +113,7 @@ focus.
   - [Elegant Library APIs in Rust](https://scribbles.pascalhertleif.de/elegant-apis-in-rust.html)
   - [Where Are You `From::from`?](https://llogiq.github.io/2015/11/27/from-into.html)
   - [Rustic Bits](https://llogiq.github.io/2016/02/11/rustic.html)
-  - [Convenient and Idiomatic Conversions in Rust](https://ricardomartins.cc/2016/08/03/convenient_and_idiomatic_conversions_in_rust)
+  - ~~[Convenient and Idiomatic Conversions in Rust](https://ricardomartins.cc/2016/08/03/convenient_and_idiomatic_conversions_in_rust)~~
 - Macros
   - [A Practical Introduction to Rust Macros](https://danielkeep.github.io/practical-intro-to-macros.html)
   - Macros In Rust
