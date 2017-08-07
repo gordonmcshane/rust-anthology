@@ -54,7 +54,7 @@ focus.
     - ~~[The `Sized` Trait](https://huonw.github.io/blog/2015/01/the-sized-trait/)~~
     - ~~[Object Safety](http://huonw.github.io/blog/2015/01/object-safety/)~~
     - ~~[Where `Self` meets `Sized`: Revisiting Object Safety](https://huonw.github.io/blog/2015/05/where-self-meets-sized-revisiting-object-safety/)~~
-  - [Rust Traits for Developer Friendly Libraries](https://benashford.github.io/blog/2015/05/24/rust-traits-for-developer-friendly-libraries/)
+  - ~~[Rust Traits for Developer Friendly Libraries](https://benashford.github.io/blog/2015/05/24/rust-traits-for-developer-friendly-libraries/)~~
 - The Rust Language
   - [The Many Kinds of Code Reuse in Rust](http://cglab.ca/~abeinges/blah/rust-reuse-and-recycle/)
   - [Mixing Matching, Mutations and Moves](https://blog.rust-lang.org/2015/04/17/Enums-match-mutation-and-moves.html)
