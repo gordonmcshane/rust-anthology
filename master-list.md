@@ -62,7 +62,7 @@ focus.
   - [Reading Rust Function Signatures](http://hoverbear.org/2015/07/10/reading-rust-function-signatures/)
   - ~~[Finding Closure in Rust](https://huonw.github.io/blog/2015/05/finding-closure-in-rust/)~~
   - ~~[Rust's Built-in Traits, the When, How & Why](https://llogiq.github.io/2015/07/30/traits.html)~~
-  - [Myths and Legends About Integer Overflow in Rust](https://huonw.github.io/blog/2016/04/myths-and-legends-about-integer-overflow-in-rust/)
+  - ~~[Myths and Legends About Integer Overflow in Rust](https://huonw.github.io/blog/2016/04/myths-and-legends-about-integer-overflow-in-rust/)~~
 - Iterators
   - ~~[Effectively Using Iterators in Rust](http://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html)~~
   - ~~[A Journey Into Iterators](https://hoverbear.org/2015/05/02/a-journey-into-iterators/)~~
