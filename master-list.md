@@ -107,7 +107,7 @@ focus.
   - ~~[Starting a New Rust Project Right, with error-chain](http://brson.github.io/2016/11/30/starting-with-error-chain)~~
   - [Bugs You'll Probably Only Have in Rust](https://gankro.github.io/blah/only-in-rust/)
   - [Using and_then and map combinators on the Rust Result Type](http://hermanradtke.com/2016/09/12/rust-using-and_then-and-map-combinators-on-result-type.html)
-  - [Mapping Over Arrays](https://llogiq.github.io/2016/04/28/arraymap.html)
+  - ~~[Mapping Over Arrays](https://llogiq.github.io/2016/04/28/arraymap.html)~~
   - ~~[From &str to Cow](http://blog.jwilm.io/from-str-to-cow/)~~
 - Idioms
   - [Elegant Library APIs in Rust](https://scribbles.pascalhertleif.de/elegant-apis-in-rust.html)
