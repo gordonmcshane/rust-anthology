@@ -59,7 +59,7 @@ focus.
   - [The Many Kinds of Code Reuse in Rust](http://cglab.ca/~abeinges/blah/rust-reuse-and-recycle/)
   - [Mixing Matching, Mutations and Moves](https://blog.rust-lang.org/2015/04/17/Enums-match-mutation-and-moves.html)
   - ~~[What are Sum, Product, and Pi types?](https://manishearth.github.io/blog/2017/03/04/what-are-sum-product-and-pi-types/)~~
-  - [Reading Rust Function Signatures](http://hoverbear.org/2015/07/10/reading-rust-function-signatures/)
+  - ~~[Reading Rust Function Signatures](http://hoverbear.org/2015/07/10/reading-rust-function-signatures/)~~
   - ~~[Finding Closure in Rust](https://huonw.github.io/blog/2015/05/finding-closure-in-rust/)~~
   - ~~[Rust's Built-in Traits, the When, How & Why](https://llogiq.github.io/2015/07/30/traits.html)~~
   - ~~[Myths and Legends About Integer Overflow in Rust](https://huonw.github.io/blog/2016/04/myths-and-legends-about-integer-overflow-in-rust/)~~
