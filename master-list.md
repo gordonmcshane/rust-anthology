@@ -67,7 +67,7 @@ focus.
   - ~~[Effectively Using Iterators in Rust](http://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html)~~
   - ~~[A Journey Into Iterators](https://hoverbear.org/2015/05/02/a-journey-into-iterators/)~~
   - ~~[for loops in Rust](http://xion.io/post/code/rust-for-loop.html)~~
-  - [Little tour of multiple iterators implementation in Rust](https://blog.guillaume-gomez.fr/articles/2017-03-09+Little+tour+of+multiple+iterators+implementation+in+Rust)
+  - ~~[Little tour of multiple iterators implementation in Rust](https://blog.guillaume-gomez.fr/articles/2017-03-09+Little+tour+of+multiple+iterators+implementation+in+Rust)~~
 - Concurrency and Parallelism
   - [Fearless Concurrency with Rust](http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html)
   - [How Rust Achieves Thread Safety](https://manishearth.github.io/blog/2015/05/30/how-rust-achieves-thread-safety/)
