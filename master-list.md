@@ -91,7 +91,7 @@ focus.
     - ~~[Creating a Rust Function That Accepts `String` or `&str`](http://hermanradtke.com/2015/05/06/creating-a-rust-function-that-accepts-string-or-str.html)~~
     - ~~[Creating a Rust Function That Returns `String` or `&str`](http://hermanradtke.com/2015/05/29/creating-a-rust-function-that-returns-string-or-str.html)~~
   - Gankro's Collections Trilogy
-    - [Rust, Lifetimes, and Collections](http://cglab.ca/~abeinges/blah/rust-lifetimes-and-collections/)
+    - ~~[Rust, Lifetimes, and Collections](http://cglab.ca/~abeinges/blah/rust-lifetimes-and-collections/)~~
     - [Rust, Generics, and Collections](http://cglab.ca/~abeinges/blah/rust-generics-and-collections/)
     - [Rust Collections Case Study: BTreeMap](http://cglab.ca/~abeinges/blah/rust-btree-case/)
   - [Learning Rust with Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/)
