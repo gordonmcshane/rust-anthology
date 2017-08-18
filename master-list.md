@@ -33,7 +33,7 @@ focus.
 - Ownership
   - ~~[Where Rust Really Shines](https://manishearth.github.io/blog/2015/05/03/where-rust-really-shines/)~~
   - [Rust Means Never Having to Close a Socket](http://blog.skylight.io/rust-means-never-having-to-close-a-socket/)
-  - [The Problem with Single-threaded Shared Mutability](https://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/)
+  - ~~[The Problem with Single-threaded Shared Mutability](https://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/)~~
   - ~~[Rust Ownership the Hard Way](https://chrismorgan.info/blog/rust-ownership-the-hard-way.html)~~
   - [Strategies for Solving "cannot move out of" Borrowing Errors](http://hermanradtke.com/2015/06/09/strategies-for-solving-cannot-move-out-of-borrowing-errors-in-rust.html)
   - Interior Mutability In Rust
