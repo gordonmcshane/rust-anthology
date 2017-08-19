@@ -124,7 +124,7 @@ focus.
   - [Creating an enum iterator using Macros 1.1](https://cbreeden.github.io/Macros11/)
   - [An Overview of Macros in Rust](http://words.steveklabnik.com/an-overview-of-macros-in-rust)
 - Unsafe Rust
-  - [Unsafe Rust: An Intro and Open Questions](http://cglab.ca/~abeinges/blah/rust-unsafe-intro/)
+  - ~~[Unsafe Rust: An Intro and Open Questions](http://cglab.ca/~abeinges/blah/rust-unsafe-intro/)~~
   - [What Does Rust's `unsafe` Mean?](https://huonw.github.io/blog/2014/07/what-does-rusts-unsafe-mean/)
   - [Memory Leaks are Memory Safe](https://huonw.github.io/blog/2016/04/memory-leaks-are-memory-safe/)
   - [On Reference Counting and Leaks](http://smallcultfollowing.com/babysteps/blog/2015/04/29/on-reference-counting-and-leaks/)
