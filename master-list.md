@@ -57,7 +57,7 @@ focus.
   - ~~[Rust Traits for Developer Friendly Libraries](https://benashford.github.io/blog/2015/05/24/rust-traits-for-developer-friendly-libraries/)~~
 - The Rust Language
   - [The Many Kinds of Code Reuse in Rust](http://cglab.ca/~abeinges/blah/rust-reuse-and-recycle/)
-  - [Mixing Matching, Mutations and Moves](https://blog.rust-lang.org/2015/04/17/Enums-match-mutation-and-moves.html)
+  - ~~[Mixing Matching, Mutations and Moves](https://blog.rust-lang.org/2015/04/17/Enums-match-mutation-and-moves.html)~~
   - ~~[What are Sum, Product, and Pi types?](https://manishearth.github.io/blog/2017/03/04/what-are-sum-product-and-pi-types/)~~
   - ~~[Reading Rust Function Signatures](http://hoverbear.org/2015/07/10/reading-rust-function-signatures/)~~
   - ~~[Finding Closure in Rust](https://huonw.github.io/blog/2015/05/finding-closure-in-rust/)~~
