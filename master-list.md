@@ -85,7 +85,7 @@ focus.
     - [Part 2](https://www.worthe-it.co.za/programming/2017/07/11/a-rusty-tale-of-shared-memories-and-passed-messages-2.html)
 - Rust in Practice
   - [Rust Error Handling](http://blog.burntsushi.net/rust-error-handling/)
-  - [Why your first FizzBuzz implementation may not work](https://chrismorgan.info/blog/rust-fizzbuzz.html)
+  - ~~[Why your first FizzBuzz implementation may not work](https://chrismorgan.info/blog/rust-fizzbuzz.html)~~
   - Herman Radtke's `String` Trilogy
     - ~~[`String` vs. `&str` in Rust Functions](http://hermanradtke.com/2015/05/03/string-vs-str-in-rust-functions.html)~~
     - ~~[Creating a Rust Function That Accepts `String` or `&str`](http://hermanradtke.com/2015/05/06/creating-a-rust-function-that-accepts-string-or-str.html)~~
