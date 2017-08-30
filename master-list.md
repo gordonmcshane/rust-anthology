@@ -103,7 +103,7 @@ focus.
   - [ripgrep code review](http://blog.mbrt.it/2016-12-01-ripgrep-code-review/)
   - [gnome-class: Integrating Rust and the GNOME object system](http://smallcultfollowing.com/babysteps/blog/2017/05/02/gnome-class-integrating-rust-and-the-gnome-object-system/)
   - ~~[Exploring Rust's standard library: system calls and errors](https://people.gnome.org/~federico/blog/rust-libstd-syscalls-and-errors.html)~~
-  - [I used to use pointers. Now what?](https://github.com/diwic/reffers-rs/blob/master/docs/Pointers.md)
+  - ~~[I used to use pointers. Now what?](https://github.com/diwic/reffers-rs/blob/master/docs/Pointers.md)~~
   - ~~[Starting a New Rust Project Right, with error-chain](http://brson.github.io/2016/11/30/starting-with-error-chain)~~
   - [Bugs You'll Probably Only Have in Rust](https://gankro.github.io/blah/only-in-rust/)
   - ~~[Using and_then and map combinators on the Rust Result Type](http://hermanradtke.com/2016/09/12/rust-using-and_then-and-map-combinators-on-result-type.html)~~
