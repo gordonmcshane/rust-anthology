@@ -150,7 +150,7 @@ focus.
   - [Asynchronous Rust for Fun and Profit](http://xion.io/post/programming/rust-async-closer-look.html)
   - [Understanding the Tokio Reactor Core](https://www.coredump.ch/2017/07/05/understanding-the-tokio-reactor-core/)
 - Performance
-  - [Benchmarking In Rust](https://llogiq.github.io/2015/06/16/bench.html)
+  - ~~[Benchmarking In Rust](https://llogiq.github.io/2015/06/16/bench.html)~~
   - [Profiling Rust Applications on Linux](https://llogiq.github.io/2015/07/15/profiling.html)
   - [Does Your Code Leave a Trail of Slowness?](https://jackmott.github.io/2017/02/27/trail-of-slow.html)
   - [Rust Faster!](https://llogiq.github.io/2015/10/03/fast.html)
