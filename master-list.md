@@ -37,9 +37,9 @@ focus.
   - ~~[Rust Ownership the Hard Way](https://chrismorgan.info/blog/rust-ownership-the-hard-way.html)~~
   - [Strategies for Solving "cannot move out of" Borrowing Errors](http://hermanradtke.com/2015/06/09/strategies-for-solving-cannot-move-out-of-borrowing-errors-in-rust.html)
   - Interior Mutability In Rust
-    - [Interior mutability in Rust: what, why, how?](https://ricardomartins.cc/2016/06/08/interior-mutability)
-    - [Interior mutability in Rust, part 2: thread safety](https://ricardomartins.cc/2016/06/25/interior-mutability-thread-safety)
-    - [Interior mutability in Rust, part 3: behind the curtain](https://ricardomartins.cc/2016/07/11/interior-mutability-behind-the-curtain)
+    - ~~[Interior mutability in Rust: what, why, how?](https://ricardomartins.cc/2016/06/08/interior-mutability)~~
+    - ~~[Interior mutability in Rust, part 2: thread safety](https://ricardomartins.cc/2016/06/25/interior-mutability-thread-safety)~~
+    - ~~[Interior mutability in Rust, part 3: behind the curtain](https://ricardomartins.cc/2016/07/11/interior-mutability-behind-the-curtain)~~
   - ~~[`&` vs. `ref` in Patterns](http://xion.io/post/code/rust-patterns-ref.html)~~
   - Holy `std::borrow::Cow`
     - ~~[Holy `std::borrow::Cow`!](https://llogiq.github.io/2015/07/09/cow.html)~~
