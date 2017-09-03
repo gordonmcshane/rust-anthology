@@ -117,8 +117,8 @@ focus.
 - Macros
   - [A Practical Introduction to Rust Macros](https://danielkeep.github.io/practical-intro-to-macros.html)
   - Macros In Rust
-    - [Part 1](http://www.ncameron.org/blog/macros-in-rust-pt1/)
-    - [Part 2](http://www.ncameron.org/blog/macros-in-rust-pt2/)
+    - ~~[Part 1](http://www.ncameron.org/blog/macros-in-rust-pt1/)~~
+    - ~~[Part 2](http://www.ncameron.org/blog/macros-in-rust-pt2/)~~
     - [Part 3](http://www.ncameron.org/blog/macros-in-rust-pt3/)
     - [Part 4](http://www.ncameron.org/blog/macros-in-rust-pt4/)
   - [Creating an enum iterator using Macros 1.1](https://cbreeden.github.io/Macros11/)
