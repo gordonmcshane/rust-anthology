@@ -119,7 +119,7 @@ focus.
   - Macros In Rust
     - ~~[Part 1](http://www.ncameron.org/blog/macros-in-rust-pt1/)~~
     - ~~[Part 2](http://www.ncameron.org/blog/macros-in-rust-pt2/)~~
-    - [Part 3](http://www.ncameron.org/blog/macros-in-rust-pt3/)
+    - ~~[Part 3](http://www.ncameron.org/blog/macros-in-rust-pt3/)~~
     - [Part 4](http://www.ncameron.org/blog/macros-in-rust-pt4/)
   - [Creating an enum iterator using Macros 1.1](https://cbreeden.github.io/Macros11/)
   - [An Overview of Macros in Rust](http://words.steveklabnik.com/an-overview-of-macros-in-rust)
@@ -141,7 +141,7 @@ focus.
   - [How MutexGuard was Sync When It Should Not Have Been](https://www.ralfj.de/blog/2017/06/09/mutexguard-sync.html)
   - [The Scope of Unsafe](https://www.ralfj.de/blog/2016/01/09/the-scope-of-unsafe.html)
 - Async I/O
-  - [Getting Acquainted with `mio`](https://hoverbear.org/2015/03/03/getting-acquainted-with-mio/)
+  - ~~[Getting Acquainted with `mio`](https://hoverbear.org/2015/03/03/getting-acquainted-with-mio/)~~
   - [My Basic Understanding of `mio` and Async I/O](http://hermanradtke.com/2015/07/12/my-basic-understanding-of-mio-and-async-io.html)
   - [Creating a Simple Protocol With `mio`](http://hermanradtke.com/2015/09/12/creating-a-simple-protocol-when-using-rust-and-mio.html)
   - [Managing Connection State With `mio`](http://hermanradtke.com/2015/10/23/managing-connection-state-with-mio-rust.html)
