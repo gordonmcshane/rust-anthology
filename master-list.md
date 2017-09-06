@@ -120,7 +120,7 @@ focus.
     - ~~[Part 1](http://www.ncameron.org/blog/macros-in-rust-pt1/)~~
     - ~~[Part 2](http://www.ncameron.org/blog/macros-in-rust-pt2/)~~
     - ~~[Part 3](http://www.ncameron.org/blog/macros-in-rust-pt3/)~~
-    - [Part 4](http://www.ncameron.org/blog/macros-in-rust-pt4/)
+    - ~~[Part 4](http://www.ncameron.org/blog/macros-in-rust-pt4/)~~
   - [Creating an enum iterator using Macros 1.1](https://cbreeden.github.io/Macros11/)
   - [An Overview of Macros in Rust](http://words.steveklabnik.com/an-overview-of-macros-in-rust)
 - Unsafe Rust
