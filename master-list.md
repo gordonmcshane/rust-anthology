@@ -142,7 +142,7 @@ focus.
   - [The Scope of Unsafe](https://www.ralfj.de/blog/2016/01/09/the-scope-of-unsafe.html)
 - Async I/O
   - ~~[Getting Acquainted with `mio`](https://hoverbear.org/2015/03/03/getting-acquainted-with-mio/)~~
-  - [My Basic Understanding of `mio` and Async I/O](http://hermanradtke.com/2015/07/12/my-basic-understanding-of-mio-and-async-io.html)
+  - ~~[My Basic Understanding of `mio` and Async I/O](http://hermanradtke.com/2015/07/12/my-basic-understanding-of-mio-and-async-io.html)~~
     - [Part 2](http://hermanradtke.com/2015/07/22/creating-a-multi-echo-server-using-rust-and-mio.html)
   - [Creating a Simple Protocol With `mio`](http://hermanradtke.com/2015/09/12/creating-a-simple-protocol-when-using-rust-and-mio.html)
   - [Managing Connection State With `mio`](http://hermanradtke.com/2015/10/23/managing-connection-state-with-mio-rust.html)
