@@ -96,7 +96,7 @@ focus.
     - [Rust Collections Case Study: BTreeMap](http://cglab.ca/~abeinges/blah/rust-btree-case/)
   - [Learning Rust with Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/)
   - [Working With C Unions in Rust FFI](http://hermanradtke.com/2016/03/17/unions-rust-ffi.html)
-  - [Quick tip: the `#[cfg_attr]` attribute](https://chrismorgan.info/blog/rust-cfg_attr.html)
+  - ~~[Quick tip: the `#[cfg_attr]` attribute](https://chrismorgan.info/blog/rust-cfg_attr.html)~~
   - Using the `Option` Type Effectively
     - ~~[Part 1](http://blog.8thlight.com/dave-torre/2015/03/11/the-option-type.html)~~
     - ~~[Part 2](http://blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html)~~
