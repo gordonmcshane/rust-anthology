@@ -70,7 +70,7 @@ focus.
   - ~~[Little tour of multiple iterators implementation in Rust](https://blog.guillaume-gomez.fr/articles/2017-03-09+Little+tour+of+multiple+iterators+implementation+in+Rust)~~
 - Concurrency and Parallelism
   - ~~[Fearless Concurrency with Rust](http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html)~~
-  - [How Rust Achieves Thread Safety](https://manishearth.github.io/blog/2015/05/30/how-rust-achieves-thread-safety/)
+  - ~~[How Rust Achieves Thread Safety](https://manishearth.github.io/blog/2015/05/30/how-rust-achieves-thread-safety/)~~
   - [Defaulting to Thread-safety: Closures and Concurrency](https://huonw.github.io/blog/2015/05/defaulting-to-thread-safety/)
   - [Some Notes on `Send` and `Sync`](https://huonw.github.io/blog/2015/02/some-notes-on-send-and-sync/)
   - Niko's Rayon Quadrilogy
